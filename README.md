@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](./fenix_dev.png)
+
 
 # 👋 ¡Hola! Soy dony222
 
